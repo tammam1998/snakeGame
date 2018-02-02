@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\tamma\source\repos\snakegame\snakegame\source.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tamma\source\repos\snakegame\snakegame\source.cpp(182): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snakeGame.vcxproj -> C:\Users\tamma\source\repos\snakeGame\Debug\snakeGame.exe
+  snakeGame.vcxproj -> C:\Users\tamma\source\repos\snakeGame\Debug\snakeGame.pdb (Partial PDB)
