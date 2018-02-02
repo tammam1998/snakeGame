@@ -1,4 +1,4 @@
-# snakeGame
+# snakeGame in c++
 This game was made using visual studio 2017
 I used this youtube tutorial to make this game: https://www.youtube.com/watch?v=E_-lMZDi7Uw&t=1s
 Changes I made:
