@@ -1,5 +1,5 @@
 # Snake Game in C++
-<h1>This game was made using visual studio 2017</h1>
+<h1>This game was made using Visual Studio 2017</h1>
 <h2>I used this youtube tutorial to make this game: https://www.youtube.com/watch?v=E_-lMZDi7Uw&t=1s</h2>
 <ul><h2>Changes I made:</h2>
   <li>I added Bombs in the game and made them increase as the snake grows.</li>
